@@ -1,2 +1,2 @@
-# aardvark-gardening.github.io
-A local Whitefish MT gardening business 
+# Aardvark-Gardening
+A local Whitefish Montana gardening business  
